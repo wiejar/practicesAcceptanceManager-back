@@ -6,7 +6,7 @@
   "mongodb": {
     "host": "ds145848.mlab.com",
     "port": 45848,
-    "url": "mongodb://tomasz68@1234test@ds145848.mlab.com:45848/pam-back",
+    "url": "mongodb://test:1234test@ds145848.mlab.com:45848/pam-back",
     "database": "pam-back",
     "password": "1234test",
     "name": "mongodb",
