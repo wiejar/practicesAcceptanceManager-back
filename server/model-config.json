@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "practice": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }

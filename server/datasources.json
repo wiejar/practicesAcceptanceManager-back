@@ -10,7 +10,7 @@
     "database": "pam-back",
     "password": "1234test",
     "name": "mongodb",
-    "user": "tomasz68",
+    "user": "test",
     "connector": "mongodb"
   }
 }
